@@ -1,8 +1,19 @@
-# Hi, I'm Ashish Gautam 👋
+<div align="center">
 
-🎓 Computer Science & Engineering student at MNNIT Allahabad  
-💻 Full-Stack Developer | C++ Developer | Problem Solver  
-🚀 Interested in scalable systems, AI-powered applications and backend engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Ashish%20Gautam&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://github.com/ashishsps20">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+C%2B%2B+Engineer;AI-Powered+Applications+%26+Backend+Engineering;LeetCode+Knight+%E2%9A%A1+Rating+1950;Turning+Algorithms+into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashishsps20&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoashish17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishsps20)
+
+</div>
 
 ---
 
@@ -38,6 +49,47 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashishsps20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=ashishsps20&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsps20&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishsps20&bg_color=1a1b27&color=38bdf8&line=1e3a8a&point=38bdf8&area=true&hide_border=true" width="98%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishsps20/ashishsps20/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishsps20/ashishsps20/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ashishsps20/ashishsps20/output/github-contribution-grid-snake.svg" width="98%"/>
+</picture>
+
+</div>
+
+
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashishsps20&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 ---
 
@@ -117,4 +169,10 @@ Collaborative digital family album and heritage platform.
 
 ---
 
+<div align="center">
+
 ⭐ Feel free to explore my repositories and projects!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
